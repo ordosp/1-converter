@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-// TEST
 func main() {
 	const USD_EUR = 0.86
 	const USD_RUB = 79.26
